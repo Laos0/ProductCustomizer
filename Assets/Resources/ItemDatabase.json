@@ -1,0 +1,105 @@
+﻿{
+  "items": [
+    {
+      "id": 100,
+      "name": "Blade Of Torture",
+      "cost": 750,
+      "itemType": 0,
+      "durability": 100,
+      "rarity": 1,
+      "damage": 50
+    },
+    {
+      "id": 101,
+      "name": "Blade Of Sadness",
+      "cost": 1500,
+      "itemType": 0,
+      "durability": 90,
+      "rarity": 2,
+      "damage": 75
+    },
+    {
+      "id": 102,
+      "name": "Forsaken Blade",
+      "cost": 1300,
+      "itemType": 0,
+      "durability": 100,
+      "rarity": 1,
+      "damage": 60
+    },
+    {
+      "id": 103,
+      "name": "Steel Blade",
+      "cost": 750,
+      "itemType": 0,
+      "durability": 80,
+      "rarity": 1,
+      "damage": 70
+    },
+    {
+      "id": 104,
+      "name": "Curved Blade",
+      "cost": 1700,
+      "itemType": 0,
+      "durability": 50,
+      "rarity": 3,
+      "damage": 100
+    },
+    {
+      "id": 500,
+      "name": "Wood Handle",
+      "cost": 500,
+      "itemType": 1,
+      "rarity": 1,
+      "damageMultiplier": 0.9
+    },
+    {
+      "id": 501,
+      "name": "Steel Handle",
+      "cost": 700,
+      "itemType": 1,
+      "rarity": 1,
+      "damageMultiplier": 1.2
+    },
+    {
+      "id": 502,
+      "name": "Cursed Handle",
+      "cost": 2500,
+      "itemType": 1,
+      "rarity": 3,
+      "damageMultiplier": 1.5
+    },
+    {
+      "id": 503,
+      "name": "Chipped Handle",
+      "cost": 800,
+      "itemType": 1,
+      "rarity": 1,
+      "damageMultiplier": 1.1
+    },
+	{
+      "id": 900,
+      "name": "Square Guard",
+      "cost": 100,
+      "itemType": 2,
+      "rarity": 1,
+      "damageMultiplier": 1
+    },
+	{
+      "id": 901,
+      "name": "Diamond Guard",
+      "cost": 1000,
+      "itemType": 2,
+      "rarity": 2,
+      "damageMultiplier": 1.5
+    },
+	{
+      "id": 902,
+      "name": "Cursed Guard",
+      "cost": 2500,
+      "itemType": 2,
+      "rarity": 3,
+      "damageMultiplier": 1.5
+    }
+  ]
+}
